@@ -1,7 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
+<<<<<<< HEAD
 %% Alumno (Apellidos, Nombre): Monje Velarde, Miguel                %%
+=======
+%% Alumno (Apellidos, Nombre): Sánchez Barreiro, Pablo              %%
+>>>>>>> 38cbf1b919108426d3c7f57fa652c0a8109b9359
 %%==================================================================%%
 
  Paso   Acción                       Notas
