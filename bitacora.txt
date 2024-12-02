@@ -12,3 +12,13 @@
 (4)     checkout -b PrimeraRama             -b opcion para crear rama con el checkout
 
 (11)    stash y switch 
+(6)     checkout -b SegundaRama
+
+(14)                                    Seria recursiva ya que las ramas han divergido, 
+                                        es decir que en Primera Rama se han hecho cambios 
+                                        y en SegundaRama tambien despues de la creacion de la Segunda Rama,
+                                        lo que generara probablemente conflictos al ser el mismo fichero. 
+
+(15)                                    Seria por fastforward ya que en master aun no se han hecho commit a cambios 
+                                        desde que se creo la rama 
+(16)    switch SegundaRama
