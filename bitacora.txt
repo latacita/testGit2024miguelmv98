@@ -6,3 +6,5 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(1)     clone [url github]      
+(2)     commit -a -m "Anhadido nombre"      -a para incluir el fichero modificado y no hacer 2 comandos
