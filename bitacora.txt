@@ -8,3 +8,13 @@
 ====== ============================ ================================
 (1)     clone [url github]      
 (2)     commit -a -m "Anhadido nombre"      -a para incluir el fichero modificado y no hacer 2 comandos
+
+(8)     push --set-upstream ...
+(9)     switch master                        switch y Checkout para cambiar de rama son lo mismo
+
+(17)    switch PrimeraRama
+(18)    merge SegundaRama                  Lo cual ha generado conflictos que se ha resuelto tomando ambos 
+        add                                cambios sin tener en cuenta el orden de los pasos 
+        commit                             (Lo ordeno mas adelante si tengo que subir PrimeraRama a remoto se me olvido que se tenian que ordenar)
+(19)    switch main
+(20)    satsh pop
