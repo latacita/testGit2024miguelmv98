@@ -8,3 +8,5 @@
 ====== ============================ ================================
 (1)     clone [url github]      
 (2)     commit -a -m "Anhadido nombre"      -a para incluir el fichero modificado y no hacer 2 comandos
+
+(4)     checkout -b PrimeraRama             -b opcion para crear rama con el checkout
