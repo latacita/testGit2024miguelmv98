@@ -1,0 +1,15 @@
+%%==================================================================%%
+%%                 Métodos de Desarrollo - Test de Git              %%
+%%==================================================================%%
+%% Alumno (Apellidos, Nombre): Monje Velarde, Miguel                %%
+%%==================================================================%%
+
+ Paso   Acción                       Notas
+====== ============================ ================================
+
+(22)    pull                            Se encuentra un conflicto con el remoto que lo tengo que resolver trayendome los cambios
+        add .
+        commit
+        push
+(23)    switch SegundaRama
+(24)    code pasosExtra.txt         Esto crea el archivo y lo abre en visualStudioCode
