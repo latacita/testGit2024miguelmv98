@@ -22,3 +22,7 @@
         commit                             (Lo ordeno mas adelante si tengo que subir PrimeraRama a remoto se me olvido que se tenian que ordenar)
 (19)    switch main
 (20)    satsh pop
+
+(26)    tag "PasosExtra"
+(27)    checkout master
+(28)    cherry-pick con el hash del commit      Notese que he hecho el commit en gitkraken por no buscar el hash del commit con el git log
